@@ -1,0 +1,26 @@
+<annotation>
+  <folder>150</folder>
+  <filename>000038</filename>
+  <path>D:\programming\school\shijiazhuang\150\000038.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>school</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>230</ymin>
+      <xmax>286</xmax>
+      <ymax>285</ymax>
+    </bndbox>
+  </object>
+</annotation>

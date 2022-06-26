@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000518.jpg</filename>
+	<path>J:\fuhan\data\traindata\alldata\JPEGImages\000518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>school</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>340</ymin>
+			<xmax>311</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>
